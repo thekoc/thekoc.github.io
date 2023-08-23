@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>窠臼.blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (thekoc)</managingEditor>
+      <webMaster>address@yoursite.com (thekoc)</webMaster>
+      <lastBuildDate>Sat, 12 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/ha/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/keepalived-ha-conf</guid>
+    <title>通过 KeepAlived 实现高可用集群</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/keepalived-ha-conf</link>
+    <description>KeepAlived 是一个用于实现高可用服务的软件，它可以将多台服务器组成一个高可用集群，提供虚拟 IP，当主服务器宕机时，可以自动将虚拟 IP 转移到备用服务器上，从而实现高可用服务。</description>
+    <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (thekoc)</author>
+    <category>ha</category><category>devops</category><category>keepalived</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>窠臼.blog</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog created with Next.js and Tailwind.css</description>
+      <language>en-us</language>
+      <managingEditor>address@yoursite.com (thekoc)</managingEditor>
+      <webMaster>address@yoursite.com (thekoc)</webMaster>
+      <lastBuildDate>Sat, 12 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/python/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/matplotlib-basic-concepts</guid>
+    <title>Matplotlib 基本概念</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/matplotlib-basic-concepts</link>
+    
+    <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (thekoc)</author>
+    <category>matplotlib</category><category>python</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/no-internet-docker-setup</guid>
+    <title>无公网环境配置 Docker 以及相关镜像</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/no-internet-docker-setup</link>
+    
+    <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+    <author>address@yoursite.com (thekoc)</author>
+    <category>matplotlib</category><category>python</category>
+  </item>
+
+    </channel>
+  </rss>
