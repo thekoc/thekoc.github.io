@@ -25,6 +25,10 @@
 <lastmod>2018-08-05T00:00:00.000Z</lastmod>
 </url>
 <url>
+<loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/github-actions</loc>
+<lastmod>2023-08-24T00:00:00.000Z</lastmod>
+</url>
+<url>
 <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/matplotlib-basic-concepts</loc>
 <lastmod>2019-06-11T00:00:00.000Z</lastmod>
 </url>
@@ -39,10 +43,6 @@
 <url>
 <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/python-multiprocessing</loc>
 <lastmod>2017-07-26T00:00:00.000Z</lastmod>
-</url>
-<url>
-<loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/drafts/github-actions</loc>
-<lastmod>2023-08-24T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://tailwind-nextjs-starter-blog.vercel.app/blog/drafts/keepalived-ha-conf</loc>
